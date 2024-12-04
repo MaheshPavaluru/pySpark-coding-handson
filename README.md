@@ -1,4 +1,4 @@
-# Databricks Projects
+# Databricks PySpark Project
 
 This repository showcases learnings of pySpark using Databricks
 
